@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-CSV = 'initial books'
+CSV = 'initial_books'
 SQL = 'ebookstore.sqlite'
 
 
